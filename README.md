@@ -1,1 +1,2 @@
-# Efficiency-Analysis-of-Stock-Price-Prediction-using-Machine-Learning
+# Efficiency Analysis of Stock Price Prediction using Machine Learning
+Machine Learning techniques have been used to analyze and predict stock prices of a given company. These systems are quite common nowadays. But how reliable are these predictions? It is a known fact that stock prices fluctuate on many factors like Economic factors, Company trends etc. In this project, we will evaluate the reliability of these predictions by training a model on a stock price dataset and then trying to predict  when the price fluctuated due to some Economic conditions. This will help us analyze the reliability of such systems when situation deviates from the normal situation.
